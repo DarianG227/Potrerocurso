@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.Body1 {
+    background-color: lightblue;
+    color: black;
+}
+
+.imagenes {
+    width: 25%;
+}
+
+.gift {
+    width: 25%;
+}
+
+h2 {
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
+
+p {
+    font-size: large;
+}
+
+li {
+    font-size: large;
+}
+
+a {
+    color: red;
+    background-color: lightcyan;
+}
+
+.videos {
+    width: 70%;
+}
+
+.Body2 {
+    background-color: lightsalmon;
+}
+
+.a2 {
+    color: blue;
+    background-color: lightgrey;
+}
